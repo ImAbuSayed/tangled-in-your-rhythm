@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tangled-in-your-rhythm/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Tangled In Your Rhythm](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tangled-in-your-rhythm/) |
+| **Get License** | [Get a Licensing Quote for Tangled In Your Rhythm](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tangled-in-your-rhythm/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the fire when your shadow falls on mine
+> Tangled in your rhythm, losing track of time
+> Every breath you take is calling out my soul
+> Pulling me closer till I lose control
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
